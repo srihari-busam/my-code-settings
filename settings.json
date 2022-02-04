@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.activeBorder": "#ff0000",
+        "tab.unfocusedActiveBorder": "#000000",
+        //"tab.activeBackground": "#f34906ce",
+        "tab.activeBorderTop": "#0A84FF"
+    },
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 140,
+    "editor.rulers": [
+        120,
+        140
+    ]
+}
